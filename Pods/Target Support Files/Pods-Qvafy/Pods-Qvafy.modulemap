@@ -1,0 +1,6 @@
+framework module Pods_Qvafy {
+  umbrella header "Pods-Qvafy-umbrella.h"
+
+  export *
+  module * { export * }
+}

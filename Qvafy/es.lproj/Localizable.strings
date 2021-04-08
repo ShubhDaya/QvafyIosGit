@@ -1,0 +1,1746 @@
+/* 
+  Localizable.strings
+  Qvafy
+  Created by IOS-Shubham-40 on 18/01/21.
+  Copyright © 2021 IOS-Aradhana-cat. All rights reserved.
+*/
+
+//Added after backed message after localisation on backend side -
+
+
+
+
+"Your password has been updated successfully." = "Su contraseña se ha actualizado correctamente.";
+"The old and new password should not be the same." = "La contraseña antigua y la nueva no deberían ser iguales.";
+"No record found" = "Ningún record fue encontrado";
+// Added from after testing new message from google translate -
+
+//introduzca su número de tarjeta
+"Enter your card number" = "Ingrese su número de tarjeta";
+
+"Your old password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character." = "Su contraseña anterior debe contener un mínimo de 8 caracteres con al menos una mayúscula, minúscula, dígito numérico y carácter especial.";
+
+"Your new password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character." = "Su nueva contraseña debe contener un mínimo de 8 caracteres con al menos una mayúscula, minúscula, dígito numérico y carácter especial.";
+
+"Your password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character." =
+"Su contraseña debe contener un mínimo de 8 caracteres con al menos una mayúscula, minúscula, dígito numérico y carácter especial.";
+
+"Confirm password should be same as password." =
+"Confirmar la contraseña debe ser la misma que la contraseña.";
+
+"has_safely_dropped_you_on_destination,please pay him." =
+"te ha dejado a salvo en destino, por favor págale.";
+
+//images -
+"Add_Address_image" = "Add_Address_es";
+"send_btn_img" = "send_btn_img_es";
+"Add_new_card_img" = "add_new_card_img_es";
+"current_loction_active_img" = "current_loction_active_img_es";
+"current_loction_inactive" = "current_loction_inactive_es";
+"offline_ico" = "offline_ico_es";
+"online_ico" = "online_ico_es";
+
+// 23 jan
+
+"We not able to make a call your number is not valid." = "No puede llamar porque el número agregado no es válido.";
+
+"Profile_updated_successfully" = "La información del perfil se actualizó correctamente";
+"Max 250 characters." = "Máximo 250 caracteres.";
+
+"Please_fill_all_information" = "Por favor complete toda la información";
+"Type Something.." = "Escriba Algo..";
+"Add Bank Account" = "Agregar cuenta bancaria";
+"Verified Account" = "Cuenta verificada";
+"mins" = "minutos";
+"month ago" = "hace un mes";
+"Cash On Delivery" = "Pago contra reembolso";
+"Payment Methods" = "Métodos de pago";
+"Please enter vehicle model number" = "Por favor, introduzca el número de modelo del vehículo";
+"Please upload license" = "Por favor, licencia de subida";
+"Number should not less than 5 characters" = "El número debe no menos de 5 caracteres";
+"Model should not less than 5 characters" = "Modelo debe no menos de 5 caracteres";
+"Cuban card number should not less than 12 characters" = "número de tarjeta cubano debe no menos de 12 caracteres";
+"Please enter valid cuban card number" = "Por favor, introduzca el número de tarjeta válida cubano";
+"Account number should not less than 12 characters" = "número de cuenta no debe menos de 12 caracteres";
+"Routing number should not less than 9 characters" = "Enrutamiento número debe ser de 9 caracteres";
+"Please enter valid account number" = "Por favor, introduzca el número de cuenta válido";
+"Please enter valid routing number" = "Por favor, introduzca el número de ruta válida";
+"Full name should be greater than 3 characters" = "Nombre completo debe ser mayor de 3 caracteres";
+"Username must be atleast 4 characters long" = "Nombre de usuario debe tener una antigüedad de 4 caracteres";
+"Username cannot contains whitespace" = "Nombre de usuario no puede contener espacios en blanco";
+"Please select dial code " = "Por favor, seleccione el código de marcación";
+"Please enter your social email id" = "Por favor, introduzca su correo electrónico de identificación social,";
+"Password must contain 5 characters and 1 number" = "La contraseña debe contener 5 caracteres y número 1";
+"Please enter your address" = "Por favor, introduzca su dirección de";
+"Please select the age" = "Por favor seleccione la edad";
+"Please enter the car make" = "Por favor, introduzca el coche marca";
+"Please enter the car model" = "Por favor, introduzca el modelo de coche";
+"Please enter the car plate number" = "Por favor, introduzca el número de placa del coche";
+"Please enter the car color" = "Por favor, introduzca el color del coche";
+"This email address is already exist, please enter another email to change the existing one." = "Esta dirección de correo electrónico está ya existe, por favor, introduzca otro correo electrónico para cambiar la existente.";
+"No network connection" = "No hay conexion de red";
+"Invalid Email/Password" = "No válida de correo electrónico / contraseña";
+"Your token is invalid" = "El token no es válido";
+"Please enter the subject" = "Por favor, introduzca el asunto";
+"Subject should not less than 5 characters" = "El sujeto no debe menos de 5 caracteres";
+"Please enter the message" = "Por favor, introduzca el mensaje";
+"Message should not less than 5 characters" = "Mensaje no debe menos de 5 caracteres";
+"Card holder name should not less than 3 charcters" = "Nombre del titular de la tarjeta no debe menos que 3 caracteres";
+"Please enter your first name" = "Por favor, introduzca su nombre de pila";
+"Please enter your last name" = "Por favor ingrese su apellido";
+"First Name should not less than 3 characters" = "En primer nombre debe no menos de 3 caracteres";
+"Please enter your bank account number" = "Por favor, introduzca su número de cuenta bancaria";
+"Last Name should not less than 3 characters" = "Última nombre debe no menos de 3 caracteres";
+"Please enter your registered address" = "Por favor, introduzca su dirección registrada";
+"Please enter your date of birth" = "Por favor, introduzca su fecha de nacimiento";
+"Please enter your routing number" = "Por favor, introduzca su número de enrutamiento";
+"Please enter the money" = "Por favor, introduzca el dinero";
+"You have reached the spot, we are now closing your connection." = "Ha llegado al punto, que ahora está cerrando su conexión.";
+"Unable to swap. Please select looking action first before swaping spot" = "Incapaz de intercambio. Por favor, seleccione la acción que mira primero antes de swaping punto";
+"You cannot swap with the leaving spot action" = "No se puede intercambiar con la acción punto de salir";
+"Transaction Successful" = "Transacción exitosa";
+"No network connection" = "No hay conexion de red";
+"Your session is expired. Please login again" = "Su sesión ha expirado. Entra en la cuenta de nuevo";
+"success" = "éxito";
+"Your session is expired , please login again" = "Su sesión ha caducado, por favor entra de nuevo";
+"No category here" = "Sin categoría aquí";
+"Bussiness Type" = "Tipo bussiness";
+"Select Category" = "selecciona una categoría";
+"Choose Video" = "Seleccione vídeo";
+"Camera access required" = "requiere acceso a la cámara";
+"Camera access is disabled please allow from Settings." = "acceso a la cámara se desactiva por favor permita de Configuración.";
+"hours ago" = "horas atras";
+"minutes ago" = "hace minutos";
+"Just now" = "Justo ahora";
+"Expires" = "expira";
+"mins ago" = "hace minutos";
+"secs ago" = "hace segundos";
+"Last year" = "El año pasado";
+"Last month" = "El mes pasado";
+"week ago" = "hace una semana";
+"years ago" = "hace años que";
+"months ago" = "Hace meses";
+"weeks ago" = "hace semanas";
+"Last week" = "La semana pasada";
+"days ago" = "hace días";
+"English" = "Inglesa";
+"Spanish" = "Española";
+"You_rated" = "usted ha calificado";
+"star" = "estrella";
+"stars" = "estrellas";
+"Not_now" = "Ahora no";
+"Not_Now" = "Ahora no";
+"Say_somthing_about" = "Di algo acerca de";
+"service?" = "¿el servicio?";
+"Success" = "Éxito";
+"Proceed" = "Continuar";
+"Verified_Bank_Betails" = "Verificar Datos bancarios";
+
+"Jan" = "ene";
+"Feb" = "feb";
+"Mar" = "mar";
+"Apr" = "abr";
+"May" = "Mayo";
+"Jun" = "jun";
+"Jul" = "jul";
+"Aug" = "ago";
+"Sep" = "sep";
+"Oct" = "oct";
+"Nov" = "nov";
+"Dec" = "dic";
+"Apply" = "Aplicar";
+"Withdraw_request_send_successfully." = "Retirar solicitud de envío con éxito.";
+"Change_Language" = "Cambiar idioma";
+
+// You password change message was changed by tester - new message change in value key is old.
+"You_have_changed_your_passwordyour_session_is_expired._Please_login_again" = "
+Su contraseña se ha actualizado correctamente, su sesión ha caducado. Ingrese nuevamente.
+";
+"FAQ's" = "Preguntas de";
+"Select_Language" = "Seleccione el idioma";
+"Add_Account" = "Añadir cuenta";
+
+//"Update_bank_detail_successfully" = "Bank details updated successfully";
+//"Update_bank_account_successfully" = "Bank details added successfully";
+//"Add_bank_account_successfully" = "Bank details added successfully";
+
+"Update_bank_detail_successfully" = "Datos bancarios actualizados correctamente";
+"Add_bank_account_successfully" = "Datos bancarios agregados correctamente";
+
+"Km" = "km";
+"Payment_Type" = "Tipo de pago";
+"Going_To_Restaurant" = "El ir a restaurante";
+"Location service is disabled!!" = "El servicio de ubicación está desactivada !!";
+"Update" = "Actualizar";
+"Need_Authorization" = "Autorización necesidad";
+"This app is unusable if you don't authorize this app to use your location!" = "Esta aplicación se puede utilizar si no se autoriza esta aplicación para usar su ubicación!";
+"picked" = "escogido";
+"Can't_send_any_message." = "No se puede enviar ningún mensaje.";
+"Your ride successfully completed thank you for connecting us." = "Su paseo completado con éxito gracias por conexión.";
+"Apply_Filter" = "Aplicar filtro";
+"0_Kms" = "0 Kms";
+"30_Kms" = "30 Kms";
+"Menu" = "Menú";
+"Directions" = "Direcciones";
+"Please_select_atleast_one_payment_option" = "Por favor, seleccione al menos la opción de un pago";
+"item" = "Artículos";
+"items" = "Artículos";
+
+
+
+"Please_select_delivery_address" = "Por favor, seleccione la dirección de entrega";
+"Please_select_your_address" = "Por favor seleccione su dirección";
+"Please_select_option" = "Por favor, seleccione la opción";
+"Are_you_sure_you_want_to_delete_this_address?" = "¿Está seguro de que quiere eliminar esta dirección?";
+"Please_select_atleast_one_type" = "Por favor, seleccione al menos un tipo";
+"km_away" = "km away";
+"Pending" = "Pendiente";
+"Are_you_sure_you_want_to_cancel_your_order?" = "¿Estás seguro de que deseas cancelar tu pedido?";
+"Order_is_preparing" = "Orden está preparando";
+"All_drivers_are_looking_busy_at_a_moment,_Try_a_bit_later." = "Todos los conductores están buscando ocupado en un momento, probar un poco más tarde.";
+"Accounts" = "cuentas";
+"Added_on" = "Añadido";
+"Only_alphabeticals_allowed_in_holder_name" = "Los datos de su tarjeta no son válidos";
+"Your_card_details_are_not_valid" = "Sus detalles de la tarjeta no son válidos";
+"Card_details_is_invalid" = "datos de la tarjeta no es válida";
+"Failure" = "Fracaso";
+"Message" = "Mensaje";
+"Location_is_disabled" = "Localización está desactivada";
+"We need access to your location to show you relevant search result, Please click on Settings to allow location." = "Necesitamos acceso a su ubicación a mostrar resultados de búsqueda relevantes, por favor haga clic en Configuración para permitir";
+"Are you sure you want to cancel your ride booking process?" = "¿Seguro que desea cancelar su proceso de reserva paseo?";
+"Review" = "revisión";
+
+
+"You_are_in_step_4" = "Está en el paso 4";
+"Add_Bank_Account" = "Añadir Cuenta Bancaria";
+"Bank_Name" = "Nombre del Banco";
+"Enter_bank_name" = "Introducir nombre del banco";
+"Account_holder_name" = "Nombre del titular de la cuenta";
+"Enter_account_holder_name" = "Introduzca el nombre del titular de la cuenta";
+"Account_Number" = "Número de Cuenta";
+"Enter_account_number" = "Introduzca el número de cuenta";
+"Routing_Number" = "Número de enrutamiento";
+"Enter_routing_number" = "Introduzca el número de enrutamiento";
+"Add_account" = "Añadir cuenta";
+"Verify_account" = "Verificar cuenta";
+"Verified_account" = "Cuenta verificada";
+"Skip" = "Saltar";
+"Add_Bank_Details" = "Añadir Datos Bancarios";
+"Are_you_from_Cuba_?" = "¿Es de Cuba?";
+"Bank" = "Banco";
+"Select_bank" = "Seleccionar banco";
+"Cuban_Bank_Card" = "Tarjeta Bancaria Cubana";
+"Add" = "Añadir";
+"Cart" = "Carrito";
+"Forgot_something_delicious?" = "¿Olvidó algo delicioso?";
+"ADD_MORE" = "AÑADIR MÁS";
+"Payment" = "Pago";
+"Credit_Card" = "Tarjeta de Crédito";
+"Cash_On_Delivery" = "Pago Contra Reembolso";
+"(Incl_taxes)" = "(Impuestos incluidos)";
+"Place_Order" = "Realizar Pedido";
+"Active_Now" = "Activar Ahora";
+"typing..." = "escribiendo...";
+"No_Message_Found" = "No se ha encontrado ningún mensaje";
+"Type_Something.." = "Escriba Algo..";
+"Your_order_cancelled_so_you_can't_send_message!" = "¡Su pedido se canceló por lo que no puede enviar ningún mensaje!";
+"Block" = "Bloquear";
+"Delete_chat" = "Eliminar chat";
+"Messages" = "Mensajes";
+"No_message_here" = "No hay ningún mensaje aquí";
+"Checkout" = "Procesar la compra";
+"Bill_Details" = "Detalles de la factura";
+"Total_Items_Price" = "Precio Total de los Artículos";
+"Restaurant_Charges" = "Cargos del Restaurante";
+"Delivery_Fee" = "Cuota de Entrega";
+"Offer_30%_OFF" = "Oferta de un 30% de descuento";
+"Total_Pay" = "Pago Total";
+"Deliver_to_Home" = "Entregar en Casa";
+"CHANGE" = "CAMBIAR";
+"featching_current_address" = "obteniendo dirección actual";
+"Continue" = "Continuar";
+"Confirmation" = "Confirmación";
+"Thank_you_for_your_order." = "Gracias por su pedido.";
+"You_can_track_your_order_in_My_orders_section" = "Puede seguir su pedido en la sección Mis pedidos";
+"Track_My_Order" = "Seguimiento de Mi Pedido";
+"Go_to_Home_Page" = "Ir a la Página de Inicio";
+"Search_Country" = "Buscar país";
+"No_country_here" = "No hay país aqui";
+"Past_Orders" = "Pedidos anteriores";
+"Past_Order" = "Pedido pasado";
+
+"Search_for_restaurant" = "Buscar restaurante";
+"No_past_order_here" = "No hay ninguna orden anterior aquí";
+"Active_Now" = "Activar Ahora";
+"Type_Something.." = "Escriba Algo..";
+"User_Role" = "Rol del usuario,";
+"Food_Delivery" = "Reparto de comida";
+"Taxi_Driver" = "Taxista";
+"Source" = "Origen";
+"Destination" = "Destino";
+"Date_&_Time" = "Fecha & Hora";
+"Price" = "Precio";
+"Kilometer" = "Kilómetro";
+"Status" = "Estado";
+"Customer_Information" = "Información del Cliente";
+"Edit_Profile" = "Editar Perfil";
+"Enter_email" = "Introducir email";
+"Email" = "Email";
+"Enter_phone_number" = "Introducir número de teléfono";
+"Phone_Number" = "Número de Teléfono";
+"Select_Gender" = "Seleccionar Sexo";
+"Update_Profile" = "Actualizar Perfil";
+"Please,fill_all_information" = "Por favor rellene toda la informaciones";
+"Year" = "Año";
+"Enter_year" = "Introducir año";
+"Model_Number" = "Número del Modelo";
+"Enter_model_number" = "Introducir número de modelo";
+"Make" = "Marca";
+"Select_vehicle_make" = "Seleccionar marca del vehículo";
+"Vehicle_Type" = "Tipo de Vehículo";
+"Select_vehicle_type" = "Seleccionar tipo de vehículo";
+"Vehicle_Number" = "Número de Vehículo";
+"Enter_vehicle_number" = "Introducir número de vehículo";
+"Registration" = "Registro";
+"License" = "Licencia";
+"Upload_Id" = "Subir Id";
+"Upload_License" = "Subir Licencia";
+"Update_Profile" = "Actualizar Perfil";
+"Cancel" = "Cancelar";
+"Skip_to_Next" = "Saltar al siguiente";
+"Clear" = "Borrar";
+"Filter" = "Filtrar";
+"Business_Type" = "Tipo de Negocio";
+"Category" = "Categoría";
+"Location" = "Ubicación";
+"Select_Radius" = "Seleccionar Radio";
+"Are_you_sure_you_want_to_cancel_your_ride_booking_process?" = "¿Está seguro de que desea cancelar el proceso de reserva de su viaje?";
+"has_safely_dropped_you_on_destination,_please_rate_him." = "lo ha dejado de manera segura en su destino,por favor, califíquelo.";
+"Marker_Coordinates" = "Coordenadas del Marcador";
+"Reviews" = "Reseñas";
+"Source" = "Origen";
+"Destination" = "Destino";
+"Distance" = "Distancia";
+"Away" = "Fuera";
+"Change_Status" = "Cambiar Estado";
+"Forgot_password" = "Olvidó la contraseña";
+"Send" = "Enviar";
+"Guide_How_Work" = "Guía, Cómo Funciona";
+"You_are_in_step_3" = "Está en el paso 3";
+"Make" = "Marca";
+"Next" = "Siguiente";
+"Try_again" = "Inténtelo de nuevo";
+"Alert_Screen" = "Pantalla de Alerta";
+"Login" = "Iniciar Sesión";
+"Enter_password" = "Introducir contraseña";
+"Password" = "Contraseña";
+"Sign_Up" = "Registrarse";
+"userName" = "Nombre de usuario";
+"Completed" = "Completado";
+"Customer_Info" = "Información del Cliente";
+"Items_Info" = "Información de los artículos";
+"Total_Items_Price" = "Precio total de los artículos";
+"Past_Trips" = "Viajes anteriores";
+"Payment_Methods" = "Métodos de Pago";
+"OR" = "O";
+"No_card_available." = "No hay ninguna tarjeta disponible.";
+"Add_New_Card" = "Añadir Nueva Tarjeta";
+"Done" = "Hecho";
+"Promo_Code" = "Código Promocional";
+"No_promo_code_here" = "No hay ningún código promocional aquí";
+"View_Cart" = "Ver Carrito";
+"Reviews" = "Reseñas";
+"No_review_here" = "No hay ninguna reseña aquí";
+"Select_Address" = "Seleccionar Dirección";
+"Search_Address" = "Buscar Dirección";
+"Use_Current_Location" = "Usar Ubicación Actual";
+"Add_Address" = "Añadir Dirección";
+"No_address_here" = "No hay ninguna dirección aquí";
+"Bike" = "Bicicleta";
+"Motorcycle" = "Moto";
+"Settings" = "Ajustes";
+"Notifications" = "Notificaciones";
+"Change_Password" = "Cambiar Contraseña";
+"How_to_use_(FAQ)" = "Cómo usar (Preguntas Frecuentes)";
+"Term_&_Conditions" = "Términos y Condiciones";
+"Privacy_Policy" = "Política de Privacidad";
+"Already_have_an_account?" = "¿Tiene ya una cuenta?";
+"Enter_full_name" = "Introducir nombre completo";
+"Full_Name" = "Nombre Completo";
+"Enter_confirm_password" = "Introducir contraseña de confirmación";
+"Confirm_Password" = "Contraseña de Confirmación";
+"Bank_Details" = "Datos Bancarios";
+"Logout" = "Cerrar Sesión";
+"Driver_Information" = "Información del Conductor";
+"Give_Review" = "Dejar Reseña";
+"Update_Bank_Details" = "Actualizar Datos Bancarios";
+"Customer" = "Cliente";
+"Driver" = "Conductor";
+"Verify_Bank_Details" = "Verificar Datos Bancarios";
+"Terms_and_Conditions" = "Términos y Condiciones";
+"Enter_card_holder_name" = "Introducir el nombre del titular de la tarjeta";
+"Card_Holder_Name" = "Nombre del Titular de la Tarjeta";
+"Enter_card_number" = "Introducir número de tarjeta";
+"Card_Number" = "Número de la Tarjeta";
+"MM/YY" = "MM/AA";
+"Expiry" = "Vencimiento";
+"CVV" = "CVV";
+"Add_Card" = "Añadir Tarjeta";
+"Select_Make" = "Seleccionar Marca";
+"Enter_Source" = "Introducir Origen";
+"Enter_Destination" = "Introducir Destino";
+"Enter_old_password" = "Introducir contraseña antigua";
+"Old_Password" = "Contraseña Antigua";
+"Enter_new_password" = "Introducir nueva contraseña";
+"New_Password" = "Nueva Contraseña";
+"Enter_confirm_password" = "Introducir contraseña de confirmación";
+"Confirm_Password" = "Contraseña de Confirmación";
+"Alert" = "Alerta";
+"No" = "No";
+"Yes" = "Sí";
+"OK" = "OK";
+"Delivered" = "Entregado";
+"Items" = "Artículos";
+"Bill_Details" = "Detalles de la factura";
+"Total_Items_Price" = "Precio total de los artículos";
+"Delivery_Fee" = "Tarifa de Entrega";
+"Camera" = "Cámara";
+"Gallery" = "Galería";
+"Expiry_Date" = "Fecha de Vencimiento";
+"Set" = "Establecer";
+"Complete_Kyc" = "Completar Kyc";
+"We_would_not_be_able_to_do_any_trasacation_in_your_account_without_completing_account verification,However_you_may_complete_it_in_future_also._Would_you_like_you_complete_your_account_verification?" = "No seríamos capaces de realizar ningún trámite en su cuenta sin completar la verificación de la cuenta. Sin embargo, también puede completarla en el futuro. ¿Le gustaría completar la verificación de su cuenta?";
+"Picked" = "Recogido";
+"In_Route" = "En Ruta";
+"Dropped" = "Dejado";
+"Food_Received" = "Alimentos Recibidos";
+"Food_Delivered" = "Alimentos Entregados";
+"No_trip_here" = "No hay ningún viaje aquí";
+"Trip_Code :" = "Código de Viaje :";
+"Car" = "Coche";
+"On_the_way" = "En camino";
+"Profile" = "Perfil";
+"Past_Trip" = "Viaje Pasado";
+"Fetching_current_location..." = "Obteniendo ubicación actual...";
+"No_restaurants_here" = "No hay restaurantes aquí";
+"Under_Development" = "En Preparación";
+"New_Order" = "Nuevo Pedido";
+"No_Order" = "No hay Pedidos";
+"Enter_trip_code" = "Introducir código de viaje";
+"Pickup" = "Recogido";
+"Did_you_receive_payment?" = "¿Recibió el pago?";
+"You_complete_your_ride_successfully_but_payment_is_pending." = "Completó su viaje con éxito pero el pago está pendiente.";
+"No_menu_here" = "No hay ningún menú aquí";
+"Search_Item" = "Buscar artículo";
+"No_notification_here" = "No hay ninguna notificación aquí";
+"No_order_here" = "No hay ningún pedido aquí";
+"My_Profile" = "Mi Perfil";
+"Your_profile_is_not_verified,_Please_contact_admin." = "Su perfil no está verificado, comuníquese con el administrador.";
+"Your_profile_is_under_review." = "Su perfil está bajo revisión.";
+"Basic_Info" = "Información Básica";
+"Vehicle_Info" = "Información del Vehículo";
+"Edit" = "Editar";
+"Model_Number" = "Número del Modelo";
+"Upcoming" = "Próximo";
+"Wallet" = "Monedero";
+"Card" = "Tarjeta";
+"Total_Earning" = "Ganancias Totales";
+"Total_Admin_Fees" = "Tarifas Administrativas Totales";
+"Cash" = "Efectivo";
+"Company_Settlement" = "Liquidación de la Compañía";
+"Total_Commission_Via_Cash" = "Comisión Total en Efectivo";
+"Total_Earning_Via_Card" = "Ganancias Totales mediante Tarjeta";
+"Total_Settlement" = "Liquidación Total";
+"Maximum_commission_limit_should_not_be_more_than_$500.00" = "El límite máximo de comisión no debe ser de más de $500.00";
+"Withdraw_Request" = "Solicitud de Retirada";
+"Pay_To_Company" = "Pagar a la Compañía";
+"Salad" = "Ensalada";
+"Reset" = "Reiniciar";
+"Your_food_has_been_packed_and_ready_to" = "Su comida ha sido empacada y lista para";
+"Money" = "Dinero";
+"Enter_Money" = "Introducir Dinero";
+"Pay" = "Pagar";
+"AWESOME!" = "felicitaciones";
+"Say_something_about_Evan_service?" = "¿Algo que decir acerca del servicio de Evan?";
+"Submit" = "Enviar";
+"Enter_trip" = "Introducir Viaje";
+"Cancel_Order" = "Cancelar Pedido";
+"Delivery_under_2km." = "Entrega a menos de 2km.";
+"Delivery_under_10km." = "Entrega a menos de 10km.";
+
+"Update_Bank_Account" = "Actualizar Cuenta Bancariat";
+"Update_Account" = "Actualizar Cuenta";
+"Please_select_at_least_one_type" = "Por favor, seleccione al menos un tipo";
+"food_is_being_prepared" = "La comida está siendo preparada";
+"Please_complete_your_step" = "Por favor, complete el proceso";
+"Please_rate_restaurant_and_driver_both." = "Por favor, califique al restaurante y al conductor";
+"Cancelled" = "Cancelado";
+"Deliverd" = "Entregado";
+"In-Route" = "En Ruta";
+"Received" = "Recibido";
+"Cooking" = "En cocina";
+"Accepted" = "Aceptado";
+"Please_enter_money." = "Por favor, ingrese dinero.";
+"Please_select_at_least_one_rating." = "Por favor, seleccione al menos una calificación.";
+"You_rated" = "Usted calificó";
+"star" = "estrella";
+"stars" = "estrellas";
+"Order_Id" = "Id del Pedido";
+
+"View_review" = "Ver reseña";
+"Picked_by_driver" = "Recogido por el conductor";
+"You_have_blocked_each_other._Can't_send_\nany_message." = "Se han bloqueado mutuamente. No se puede enviar ningún mensaje.";
+"Unblock" = "Desbloquear";
+"You_have_blocked" = "Ha bloqueado";
+"You_are_blocked_by" = "Está bloqueado por";
+"Do_you_want_to_unblock" = "Desea desbloquear?";
+"Do_you_want_to_block" = "Desea bloquear?";
+"EditReport" = "Editar Informe";
+"Are_you_sure_you_want_to_delete_all_conversation?" = "¿Está seguro de que desea eliminar todas las conversaciones?";
+"Your_order_successfully_completed_thank_you_for_connecting_us." = "Su pedido se completó con éxito. Gracias por conectarse con nosotros.";
+"Your_ride_cancelled_so_you_can't_send_message!" = "¡Su viaje se canceló, por lo que no puede enviar ningún mensaje!";
+"Driver_cancelled_this_ride_so_you_can't_send_message!" = "¡El conductor canceló este viaje, por lo que que no puede enviar ningún mensaje!";
+"Today" = "HOY";
+"Yesterday" = "Ayer";
+"Admin" = "Administrador";
+"Past_Trip" = "Viajes Pasados";
+"Are_you_sure_you_want_to_logout?" = "¿Está seguro que desea cerrar la sesión?";
+"NA" = "NA";
+"Past_Orders" = "Pedidos Pasados";
+"Your_order_is_in_under_process" = "Su pedido está en proceso";
+"Male" = "Hombre";
+"Female" = "Mujer";
+"Code" = "Código";
+"OFF" = "Descuento";
+"Are_you_sure_you_want_to_delete_this_item?" = "¿Está seguro/a de que desea eliminar este artículo?";
+"Open_Now" = "Abrir Ahora";
+"Close_Now" = "Cerrar Ahora";
+"Closed" = "Cerrado";
+"You_don't_assign_permission." = "No asigna permisos.";
+"Picked_by_driver" = "Recogido por el conductor";
+"You_need_to_logout_your_account" = "Necesita cerrar sesión en su cuenta";
+"Your_bank_account_is_not_verified_please_verify_your_information" = "Su cuenta bancaria no está verificada, por favor, verifique su información.";
+"Please_add_your_bank_details" = "Por favor, añada sus datos bancarios";
+"Last_Name" = "Apellido/s";
+"Please_enter_your_email" = "Por favor, introduzca su email";
+"Please_enter_your_phone_number" = "Por favor, introduzca su número de teléfono";
+"Email_address_is_not_valid,_please_provide_a_alid_email" = "El email no es válido, por favor, proporcione un email válido";
+"Please_enter_your_full_name" = "Por favor, introduzca su nombre completo";
+"Maximum_50_characters_allowed" = "Un máximo permitido de 50 caracteres";
+"New_Password_and_confirm_password_does_not_match" = "La Nueva Contraseña y la contraseña de confirmación no coinciden.";
+"Please_enter_email_address" = "Por favor, introduzca una dirección de email";
+"Email_address_is_not_valid,_please_provide_a_valid_email" = "El email no es válido, por favor, proporcione un email válido";
+"Phone_number_is_not_valid,_please_provide_a_valid_phone_number" = "El número de teléfono no es válido, por favor, facilite un número de teléfono válido";
+"Please_enter_your_password" = "Por favor, introduzca su contraseña";
+"Old_password_should_not_less_than_6_characters" = "La contraseña antigua no debe tener menos de 6 caracteres";
+"New_password_should_not_less_than_6_characters" = "La nueva contraseña no debe tener menos de 6 caracteres";
+"Password_should_not_less_than_6_characters" = "La contraseña debe tener como mínimo 6 caracteres";
+"Confirm_password_should_not_less_than_6_characters" = "La contraseña de confirmación no debe tener menos de 6 caracteres";
+"New_password_and_confirm_password_does_not_match" = "La nueva contraseña y la contraseña de confirmación no coinciden.";
+"Password_and_confirm_password_does_not_match" = "La contraseña y la contraseña de confirmación no coinciden";
+"Please_enter_your_old_password" = "Por favor, introduzca su contraseña antigua";
+"Please_enter_your_new_password" = "Por favor, Introduzca su nueva contraseña";
+"Please_enter_your_confirm_password" = "Por favor, introduzca su contraseña de confirmación";
+"Old_password_should_not_less_than_6_characters" = "La contraseña antigua no debe tener menos de 6 caracteres";
+"New_password_should_not_less_than_6_characters" = "La nueva contraseña no debe tener menos de 6 caracteres";
+"Confirm_password_should_not_less_than_6_characters" = "La contraseña de confirmación no debe tener menos de 6 caracteres";
+"Old_password_should_not_less_than_6_characters" = "La contraseña antigua no debe tener menos de 6 caracteres";
+"Please_enter_your_email_address,_You_Will_receive_alink_to_create_a_new_password_\nvia email." = "Por favor, Ingrese su dirección de email. Recibirá un enlace a través de email para crear una nueva contraseña.";
+"There_are_many_variations_of_passages_of_Lorem_Ipsum_available" = "Hay muchas variaciones de pasajes de Lorem Ipsum disponibles.";
+"Contrary_to_popular_belief,_Lorem_ipsum_is_not_simply_random_text." = "Contrariamente a la creencia popular, Lorem ipsum no es simplemente un texto aleatorio.";
+"There_are_many_variations_of_passages_of_Lorem_Ipsum_available." = "Hay muchas variaciones de pasajes de Lorem Ipsum disponibles.";
+"Please_fill_the_below_information_to_add_your_card." = "Por favor, complete la siguiente información para añadir su tarjeta.";
+"Choose_Image" = "Elegir Imagen";
+"Please_add_your_bank_account_details_for_receiving_payment" = "Por favor, añada los detalles de su cuenta bancaria para recibir el pago";
+"Please_grant_location_permission_to_start_the_service" = "Por favor, conceda permiso de ubicación para iniciar el servicio";
+"You_have_not_granted_location_permission._So_the_service_cannot_be_started." = "No ha concedido permiso de ubicación. Por lo tanto, no se puede iniciar el servicio.";
+"settings" = "ajustes";
+"No_internet" = "No hay conexión a Internet";
+"Please_make_sure_that_you_have_active_internet_connection" = "Por favor, asegúrese de tener una conexión a Internet funcional";
+"No_Google_Play_service_found._Please install_it" = "No se encontró ningún servicio de Google Play. Por favor, instálelo";
+"Don't_have_an_account_?" = "¿No tiene cuenta?";
+"Forgot_your_password?" = "¿Olvidó su contraseña?";
+"Which_type_of_vehicle_you_have?" = "¿Qué tipo de vehículo tiene?";
+"Please_enter_your_email" = "Por favor, introduzca su email";
+"Please_enter_your_phone_number" = "Por favor, introduzca su número de teléfono";
+
+"Please_enter_your_valid_phone_number" = "Por favor, Introduzca número de teléfono válido";
+"Please_enter_your_phone_number" = "Por favor, introduzca su número de teléfono";
+"Please_enter_year" = "Por favor, introduzca el año";
+"Please_enter_valid_year" = "Por favor, introduzca un año válido.";
+"Cannot_retrieve_cropped_image" = "No se puede recuperar la imagen recortada";
+"Something_went_wrong" = "Se ha producido un error";
+"Please_select_user_role" = "Por favor, seleccione un rol de usuario";
+"Please_Check_internet_connection" = "Por favor, compruebe la conexión a Internet";
+"Please_select_driver" = "Por favor, seleccione un conductor";
+"Please_select_vehicle" = "Por favor, seleccione un vehículo";
+"Please_select_vehicle_make_first" = "Por favor, primero seleccione la marca del vehículo";
+"Name_must_be_atleast_2_characters" = "El nombre debe tener al menos 2 caracteres";
+"Please_enter_vehicle_modal_number" = "Por favor, Introduzca el número del modelo del vehículo";
+"Please_select_vehicle_type" = "Por favor, seleccione un tipo de vehículo";
+"Please_enter_vehicle_number" = "Por favor, introduzca el número de vehículo";
+"Please_upload_registration" = "Por favor, cargue el registro";
+"Please_upload_licence" = "Por favor, cargue la licencia";
+"Please_select_cuba_bank" = "Por favor, seleccione un banco cubano";
+"Please_enter_your_cuban_card_number" = "Por favor, introduzca su número de tarjeta cubana";
+"Please_select_bank" = "Por favor, seleccione un banco";
+"Please_enter_bank_name" = "Por favor, introduzca el nombre del banco.";
+"Please_enter_account_holder_name" = "Por favor, introduzca el nombre del titular de la cuenta";
+"Please_enter_valid_name" = "Por favor, introduzca un nombre válido";
+"Please_enter_account_number" = "Por favor, introduzca el número de cuenta";
+"Please_enter_routing_number" = "Por favor, introduzca el número de enrutamiento";
+"Please_select_gender" = "Por favor, seleccione un género";
+"Please_select_any_card" = "Por favor, seleccione cualquier tarjeta";
+"If_you_are_select_online_payment_option,then_you_need_to_select_card" = "Si selecciona la opción de pago en línea, a continuación tiene que seleccionar una tarjeta";
+"Please_select_any_cardoption" = "Por favor, seleccione cualquier opción de tarjeta";
+"Please_select_atleast_one_option" = "Por favor, seleccione al menos una opción.";
+"Please_select_address" = "Por favor, seleccione una dirección";
+"Please_enter_your_card_number" = "Por favor ingrese el número de tarjeta";
+"Please_enter_your_card_holder_name" = "Introduzca el nombre del titular de la tarjeta";
+"Card_holder_name_should_not_less_than_3_characters" = "El nombre del titular de la tarjeta no debe tener menos de 3 caracteres";
+"Card_number_must_be_16_digit_long" = "El número de la tarjeta debe tener 16 dígitos";
+"Please_enter_your_card_expiry_date" = "Introduzca la fecha de caducidad de la tarjeta";
+"Please_enter_your_cvv_number" = "Ingrese el número de CVV";
+"CVV_number_must_be_3_digit_long" = "El número CVV debe tener 3 dígitos";
+"Please_enter_source" = "Por favor, introduzca el origen";
+"Please_enter_source_and_destination" = "Por favor, introduzca el origen y el destino";
+"Please_enter_destination" = "Por favor, introduzca el destino";
+"Please_select_make_first" = "Por favor, seleccione hacer primero";
+"Please_enter_modal_number" = "Por favor, introduzca el número del modelo";
+"Please_select_vehicle_make" = "Por favor, seleccione la marca del vehículo";
+"Please_select_vehicletype" = "Por favor, seleccione un tipo de vehículo";
+"Please_enter_vehicle_number" = "Por favor, introduzca el número de vehículo";
+"Please_select_dropped_option" = "Por favor, seleccione la opción entregada";
+"Please_select_gender" = "Por favor, seleccione un género";
+"You_don't_assign_permission." = "No asigna permisos.";
+"Enable_gps." = "Habilitar gps.";
+"Location_required_for_this_app" = "Se requiere la ubicación para esta aplicación";
+"Enable_now" = "Habilitar ahora";
+"Location_Permission_Not_Granted" = "Permiso de Ubicación No Concedido";
+"Right_now_you_do_not_havevany_order_to_delivery._Please_wait_a_while" = "En este momento no tiene ningún pedido por entregar. Por favor, espera un momento.";
+
+"Remove_promo_code" = " Eliminar código promocional ";
+"Apply_promo_code" = "Aplicar código promocional";
+"Are you sure you want to clear cart?" = "¿Estás seguro de que quieres limpiar el carrito?";
+
+"Please wait..." = "Espere por favor...";
+"Vehicle number" = "Número de vehículo";
+
+"Ask_customer_for_Reviews" = "Pedir opiniones al cliente";
+"Request_Review" = "Solicitar revisión";
+
+
+"Requested_Review" = "Revisión solicitada";
+
+"You already sent request for the review. Please wait for the customer's response." = "Envió una solicitud para la revisión. Espere la respuesta del cliente.";
+
+"Are_you_sure_you_want_to_cancel_your_ride?" = "¿Estás segura de que quieres cancelar tu viaje?";
+"Cancel Ride" = "Cancelar viaje";
+
+"Saved Card" = "Tarjeta guardada";
+
+"Are_you_sure_you_want_to_delete_this_card?" = "¿Está seguro de que desea eliminar esta tarjeta?";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

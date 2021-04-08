@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>573246282574-1b3mp410emndb54hdi6n6847jtbklob4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.573246282574-1b3mp410emndb54hdi6n6847jtbklob4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>573246282574-s6ouniotqn1pf5qgj4n5426kcqr19frn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMyyb6kCWr7WmzAeZsOSADHG1sUAg5FTQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>573246282574</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mindiii.qvafyQvaGroup</string>
+	<key>PROJECT_ID</key>
+	<string>qvafy-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qvafy-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:573246282574:ios:d728cc1f10c63a3a4a1c1f</string>
+	<key>DATABASE_URL</key>
+	<string>https://qvafy-dev.firebaseio.com</string>
+</dict>
+</plist>

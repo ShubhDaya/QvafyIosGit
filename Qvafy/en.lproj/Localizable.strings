@@ -1,0 +1,3188 @@
+/* 
+  Localizable.strings
+  Qvafy
+  Created by IOS-Shubham-40 on 18/01/21.
+  Copyright © 2021 IOS-Aradhana-cat. All rights reserved.
+*/
+
+//Added after backend message after localisation on backend side -
+"Your password has been updated successfully." = "Your password has been updated successfully.";
+"The old and new password should not be the same." = "The old and new password should not be the same.";
+"No record found" = "No record found";
+//string not found in list so string  added by shubham -
+
+// Added from after testing new message for sign in validation from google translate -
+"We not able to make a call your number is not valid." = "You are not able to call because added number is not valid.";
+
+"Enter your card number" = "Enter your card number";
+"Profile_updated_successfully" = "Profile info updated successfully";
+
+"Your old password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character." = "Your old password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character.";
+
+"Your new password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character." = "Your new password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character.";
+
+
+"Your password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character." = "Your password must contain min 8 characters with at least one uppercase, lowercase, number digit & special character.";
+"Confirm password should be same as password." = "Confirm password should be same as password.";
+
+"has_safely_dropped_you_on_destination,please pay him." = "has safely dropped you on destination,please pay him.";
+
+//image -
+"Add_Address_image" = "Add_Address";
+"send_btn_img" = "send_btn_img";
+"Add_new_card_img" = "add_new_card_img";
+
+"current_loction_active_img" = "current_loction_active_img";
+"current_loction_inactive" = "current_loction_inactive";
+"offline_ico" = "offline_ico";
+"online_ico" = "online_ico";
+
+
+//new string - 23 jan
+"Max 250 characters." = "Max 250 characters.";
+"Please_fill_all_information" = "Please fill all informations";
+"Type Something.." = "Type Something..";
+"Add Bank Account" = "Add Bank Account";
+"Verified Account" = "Verified Account";
+"mins" = "mins";
+"month ago" = "month ago";
+"Cash On Delivery" = "Cash On Delivery";
+"Payment Methods" = "Payment Methods";
+"Please enter vehicle model number" = "Please enter vehicle model number";
+"Please upload license" = "Please upload license";
+"Number should not less than 5 characters" = "Number should not less than 5 characters";
+"Model should not less than 5 characters" = "Model should not less than 5 characters";
+"Cuban card number should not less than 12 characters" = "Cuban card number should not less than 12 characters";
+"Please enter valid cuban card number" = "Please enter valid cuban card number";
+"Account number should not less than 12 characters" = "Account number should not less than 12 characters";
+"Routing number should not less than 9 characters" = "Routing number should not less than 9 characters";
+"Please enter valid account number" = "Please enter valid account number";
+"Please enter valid routing number" = "Please enter valid routing number";
+"Full name should be greater than 3 characters" = "Full name should be greater than 3 characters";
+"Username must be atleast 4 characters long" = "Username must be at least 4 characters long";
+"Username cannot contains whitespace" = "Username cannot contains whitespace";
+"Please select dial code" = "Please select dial code ";
+"Please enter your social email id" = "Please enter your social email id";
+"Password must contain 5 characters and 1 number" = "Password must contain 5 characters and 1 number";
+"Please enter your address" = "Please enter your address";
+"Please select the age" = "Please select the age";
+"Please enter the car make" = "Please enter the car make";
+"Please enter the car model" = "Please enter the car model";
+"Please enter the car plate number" = "Please enter the car plate number";
+"Please enter the car color" = "Please enter the car color";
+"This email address is already exist, please enter another email to change the existing one." = "This email address is already exist, please enter another email to change the existing one.";
+"No network connection" = "No network connection";
+"Invalid Email/Password" = "Invalid Email/Password";
+"Your token is invalid" = "Your token is invalid";
+"Please enter the subject" = "Please enter the subject";
+"Subject should not less than 5 characters" = "Subject should not less than 5 characters";
+"Please enter the message" = "Please enter the message";
+"Message should not less than 5 characters" = "Message should not less than 5 characters";
+"Card holder name should not less than 3 charcters" = "Card holder name should not less than 3 characters";
+"Please enter your first name" = "Please enter your first name";
+"Please enter your last name" = "Please enter your last name";
+"First Name should not less than 3 characters" = "First Name should not less than 3 characters";
+"Please enter your bank account number" = "Please enter your bank account number";
+"Last Name should not less than 3 characters" = "Last Name should not less than 3 characters";
+"Please enter your registered address" = "Please enter your registered address";
+"Please enter your date of birth" = "Please enter your date of birth";
+"Please enter your routing number" = "Please enter your routing number";
+"Please enter the money" = "Please enter the money";
+"You have reached the spot, we are now closing your connection." = "You have reached the spot, we are now closing your connection.";
+"Unable to swap. Please select looking action first before swaping spot" = "Unable to swap. Please select looking action first before swaping spot";
+"You cannot swap with the leaving spot action" = "You cannot swap with the leaving spot action";
+"Transaction Successful" = "Transaction Successful";
+"No network connection" = "No network connection";
+"Your session is  expired. Please login again" = "Your session is  expired. Please login again";
+"success" = "success";
+"Your session is expired , please login again" = "Your session is expired , please login again";
+"No category here" = "No category here";
+"Bussiness Type" = "Bussiness Type";
+"Select Category" = "Select Category";
+"Choose Video" = "Choose Video";
+"Camera access required" = "Camera access required";
+"Camera access is disabled please allow from Settings." = "Camera access is disabled please allow from Settings.";
+"hours ago" = "hours ago";
+"minutes ago" = "minutes ago";
+"Just now" = "Just now";
+"Expires" = "Expires";
+"You_rated" = "You rated";
+"star" = "star";
+"stars" = "stars";
+"Not_now" = "Not now";
+"Not_Now" = "Not Now";
+"Say_somthing_about" = "Say something about";
+"service?" = "service?";
+"Success" = "Success";
+"Proceed" = "Proceed";
+"Verified_Bank_Betails" = "Verify Bank Details";
+"Jan" = "Jan";
+"Feb" = "Feb";
+"Mar" = "Mar";
+"Apr" = "Apr";
+"May" = "May";
+"Jun" = "Jun";
+"Jul" = "Jul";
+"Aug" = "Aug";
+"Sep" = "Sep";
+"Oct" = "Oct";
+"Nov" = "Nov";
+"Dec" = "Dec";
+"Apply" = "Apply";
+"Withdraw_request_send_successfully." = "Withdraw request send successfully.";
+"Change_Language" = "Change Language";
+
+// You password change message was changed by tester - new message change in value key is old.
+"You_have_changed_your_passwordyour_session_is_expired._Please_login_again" = "Your password has been updated successfully, your session is expired. Please login again.";
+"FAQ's" = "FAQ's";
+"Select_Language" = "Select Language";
+"Add_Account" = "Add Account";
+//Bank details added successfully
+//Bank details updated successfully
+//Datos bancarios actualizados con éxito
+
+
+
+"Km" = "Km";
+"Payment_Type" = "Payment Type";
+"Going_To_Restaurant" = "Going To Restaurant";
+"Location service is disabled!!" = "Location service is disabled!!";
+"Update" = "Update";
+"Need_Authorization" = "Need Authorization";
+"This app is unusable if you don't authorize this app to use your location!" = "This app is unusable if you don't authorize this app to use your location!";
+"picked" = "picked";
+"Can't_send_any_message." = "Can't send any message.";
+"Your ride successfully completed thank you for connecting us." = "Your ride successfully completed thank you for connecting us.";
+"Apply_Filter" = "Apply Filter";
+"0_Kms" =  "0 Kms";
+"30_Kms" =  "30 Kms";
+"Menu" = "Menu";
+"Directions" = "Directions";
+"Please_select_atleast_one_payment_option" = "Please select at least one payment option";
+"item" = "Item";
+"items" = "Items";
+
+"Please_select_delivery_address" = "Please select delivery address";
+"Please_select_your_address" = "Please select your address";
+"Please_select_option" = "Please select option";
+"Are_you_sure_you_want_to_delete_this_address?" = "Are you sure you want to delete this address?";
+"Please_select_atleast_one_type" = "Please select at least one type";
+"km_away" = "km away";
+"Pending" = "Pending";
+"Are_you_sure_you_want_to_cancel_your_order?" = "Are you sure you want to cancel your order?";
+"Order_is_preparing" = "Order is preparing";
+"All_drivers_are_looking_busy_at_a_moment,_Try_a_bit_later." = "All drivers are looking busy at a moment, Try a bit later.";
+"Accounts" = "Accounts";
+"Added_on" = "Added on";
+
+"Only_alphabeticals_allowed_in_holder_name" = "Your card details are not valid";
+"Your_card_details_are_not_valid" = "Your card details are not valid";
+"Card_details_is_invalid" = "Card details is invalid";
+"Failure" = "Failure";
+"Message" = "Message";
+"Location_is_disabled" = "Location is disabled";
+"We need access to your location to show you relevant search result, Please click on Settings to allow location." = "We need access to your location to show you relevant search result, Please click on Settings to allow location.";
+"Are you sure you want to cancel your ride booking process?" = "Are you sure you want to cancel your ride booking process?";
+"Review" = "Review";
+"week ago" = "week ago";
+"years ago" = "years ago";
+"months ago" = "months ago";
+"weeks ago" = "weeks ago";
+"days ago" = "days ago";
+"English" = "English";
+"Spanish" = "Spanish";
+"Last month" = "Last month";
+"Last week" = "Last week";
+"mins ago" = "mins ago";
+"secs ago" = "secs ago";
+"Last year" = "Last year";
+"You don't have this item in cart to delete" = "You don't have this item in cart to delete";
+
+// end added String scope
+
+        
+"You_are_in_step_4" = "YOU ARE IN STEP 4";
+"Add_Bank_Account" = "Add Bank Account";
+"Bank_Name" = "Bank Name";
+"Enter_bank_name" = "Enter bank name";
+"Account_holder_name" = "Account holder name";
+"Enter_account_holder_name" = "Enter account holder name";
+"Account_Number" = "Account Number";
+"Enter_account_number" = "Enter account number";
+"Routing_Number" = "Routing Number";
+"Enter_routing_number" = "Enter routing number";
+"Add_account" = "Add account";
+"Verify_account" = "Verify account";
+"Verified_account" = "Verified account";
+"Skip" = "Skip";
+"Add_Bank_Details" = "Add Bank Details";
+"Are_you_from_Cuba_?" = "Are you from Cuba ?";
+"Bank" = "Bank";
+"Select_bank" = "Select bank";
+"Cuban_Bank_Card" = "Cuban Bank Card";
+"Add" = "Add";
+"Cart" = "Cart";
+"Forgot_something_delicious?" = "Forgot something delicious?";
+"ADD_MORE" = "ADD MORE";
+"Payment" = "Payment";
+"Credit_Card" = "Credit Card";
+"Cash_On_Delivery" = "Cash On Delivery";
+"(Incl_taxes)" = "(Incl taxes)";
+"Place_Order" = "Place Order";
+"Active_Now" = "Active Now";
+"typing..." = "typing...";
+"No_Message_Found" = "No Message Found";
+"Type_Something.." = "Type Something..";
+"Your_order_cancelled_so_you_can't_send_message!" = "Your order cancelled so you can't send message!";
+"Block" = "Block";
+"Delete_chat" = "Delete chat";
+"Messages" = "Messages";
+"No_message_here" = "No message here";
+"Checkout" = "Checkout";
+"Bill_Details" = "Bill Details";
+"Total_Items_Price" = "Total Items Price";
+"Restaurant_Charges" = "Restaurant Charges";
+"Delivery_Fee" = "Delivery Fee";
+"Offer_30%_OFF" = "Offer 30% OFF";
+"Total_Pay" = "Total Pay";
+"Deliver_to_Home" = "Deliver to Home";
+"CHANGE" = "CHANGE";
+"featching_current_address" = "featching current address";
+"Continue" = "Continue";
+"Confirmation" = "Confirmation";
+"Thank_you_for_your_order." = "Thank you for your order.";
+"You_can_track_your_order_in_My_orders_section" = "You can track your order in 'My orders' section.";
+"Track_My_Order" = "Track My Order";
+"Go_to_Home_Page" = "Go to Home Page";
+"Search_Country" = "Search Country";
+"No_country_here" = "No country here";
+"Past_Orders" = "Past Orders";
+"Search_for_restaurant" = "Search for restaurant";
+"No_past_order_here" = "No past order here";
+"Active_Now" = "Active Now";
+"Type_Something.." = "Type Something..";
+"User_Role" = "User Role,";
+"Food_Delivery" = "Food Delivery";
+"Taxi_Driver" = "Taxi Driver";
+"Source" = "Source";
+"Destination" = "Destination";
+"Date_&_Time" = "Date & Time";
+"Price" = "Price";
+"Kilometer" = "Kilometer";
+"Status" = "Status";
+"Customer_Information" = "Customer Information";
+"Edit_Profile" = "Edit Profile";
+"Enter_email" = "Enter email";
+"Email" = "Email";
+"Enter_phone_number" = "Enter phone number";
+"Phone_Number" = "Phone Number";
+"Select_Gender" = "Select Gender";
+"Update_Profile" = "Update Profile";
+"Please,fill_all_information" = "Please fill all informations";
+"Year" = "Year";
+"Enter_year" = "Enter Year";
+"Model_Number" = "Model Number";
+"Enter_model_number" = "Enter model number";
+"Make" = "Make";
+"Select_vehicle_make" = "Select vehicle make";
+"Vehicle_Type" = "Vehicle Type";
+"Select_vehicle_type" = "Select vehicle type";
+"Vehicle_Number" = "Vehicle Number";
+"Enter_vehicle_number" = "Enter vehicle number";
+"Registration" = "Registration";
+"License" = "License";
+"Upload_Id" = "Upload Id";
+"Upload_License" = "Upload License";
+"Update_Profile" = "Update Profile";
+"Cancel" = "Cancel";
+"Skip_to_Next" = "Skip to Next";
+"Clear" = "Clear";
+"Filter" = "Filter";
+"Business_Type" = "Business Type";
+"Category" = "Category";
+"Location" = "Location";
+"Select_Radius" = "Select Radius";
+"Are_you_sure_you_want_to_cancel_your_ride_booking_process?" = "Are you sure you want to cancel your ride  booking process?";
+"has_safely_dropped_you_on_destination,_please_rate_him." = "has safely dropped you on destination, please rate him.";
+"Marker_Coordinates" = "Marker Coordinates";
+"Reviews" = "Reviews";
+"Source" = "Source";
+"Destination" = "Destination";
+"Distance" = "Distance";
+"Away" = "Away";
+"Change_Status" = "Change Status";
+"Forgot_password" = "Forgot password";
+"Send" = "Send";
+"Guide_How_Work" = "Guide How Work";
+"You_are_in_step_3" = "YOU ARE IN STEP 3";
+"Make" = "Make";
+"Next" = "Next";
+"Try_again" = "Try again";
+"Alert_Screen" = "Alert Screen";
+"Login" = "Login";
+"Enter_password" = "Enter password";
+"Password" = "Password";
+"Sign_Up" = "Sign Up";
+"userName" = "userName";
+"Completed" = "Completed";
+"Customer_Info" = "Customer Info";
+"Items_Info" = "Items Info";
+"Total_Items_Price" = "Total Items Price";
+"Past_Trip" = "Past Trip";
+"Payment_Methods" = "Payment Methods";
+"OR" = "OR";
+"No_card_available." = "No card available.";
+"Add_New_Card" = "Add New Card";
+"Done" = "Done";
+"Promo_Code" = "Promo Code";
+"No_promo_code_here" = "No promo code here";
+"View_Cart" = "View Cart";
+"Reviews" = "Reviews";
+"No_review_here" = "No review here";
+"Select_Address" = "Select Address";
+"Search_Address" = "Search Address";
+"Use_Current_Location" = "Use Current Location";
+"Add_Address" = "Add Address";
+"No_address_here" = "No address here";
+"Bike" = "Bike";
+"Motorcycle" = "Motorcycle";
+"Settings" = "Settings";
+"Notifications" = "Notifications";
+"Change_Password" = "Change Password";
+"How_to_use_(FAQ)" = "How to use (FAQ)";
+"Term_&_Conditions" = "Term & Conditions";
+"Privacy_Policy" = "Privacy Policy";
+"Already_have_an_account?" = "Already have an account?";
+"Enter_full_name" = "Enter full name";
+"Full_Name" = "Full Name";
+"Enter_confirm_password" = "Enter confirm password";
+"Confirm_Password" = "Confirm Password";
+"Bank_Details" = "Bank Details";
+"Logout" = "Logout";
+"Driver_Information" = "Driver Information";
+"Give_Review" = "Give Review";
+"Update_Bank_Details" = "Update Bank Details";
+"Customer" = "Customer";
+"Driver" = "Driver";
+"Verify_Bank_Details" = "Verify Bank Details";
+"Terms_and_Conditions" = "Terms and Conditions";
+"Enter_card_holder_name" = "Enter card holder name";
+"Card_Holder_Name" = "Card Holder Name";
+"Enter_card_number" = "Enter card number";
+"Card_Number" = "Card Number";
+"MM/YY" = "MM/YY";
+"Expiry" = "Expiry";
+"CVV" = "CVV";
+"Add_Card" = "Add Card";
+"Select_Make" = "Select Make";
+"Enter_Source" = "Enter Source";
+"Enter_Destination" = "Enter Destination";
+"Enter_old_password" = "Enter old password";
+"Old_Password" = "Old Password";
+"Enter_new_password" = "Enter new password";
+"New_Password" = "New Password";
+"Enter_confirm_password" = "Enter confirm password";
+"Confirm_Password" = "Confirm Password";
+"Alert" = "Alert";
+"No" = "No";
+"Yes" = "Yes";
+"OK" = "OK";
+"Delivered" = "Delivered";
+"Items" = "Items";
+"Bill_Details" = "Bill Details";
+"Total_Items_Price" = "Total Items Price";
+"Delivery_Fee" = "Delivery Fee";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Expiry_Date" = "Expiry Date";
+"Set" = "Set";
+"Complete_Kyc" = "Complete Kyc";
+"We_would_not_be_able_to_do_any_trasacation_in_your_account_without_completing_account verification,However_you_may_complete_it_in_future_also._Would_you_like_you_complete_your_account_verification?" = "We would not be able to do any trasacation in your account without completing account verification, However you may complete it in future also. Would you like you complete your account verification?";
+"Picked" = "Picked";
+"In_Route" = "In Route";
+"Dropped" = "Dropped";
+"Food_Received" = "Food Received";
+"Food_Delivered" = "Food Delivered";
+"No_trip_here" = "No trip here";
+"Trip_Code :" = "Trip Code :";
+"Car" = "Car";
+"On_the_way" = "On the way";
+"Profile" = "Profile";
+"Past_Order" = "Past Order";
+"Past_Trip" = "Past Trip";
+"Fetching_current_location..." = "Fetching current location...";
+"No_restaurants_here" = "No restaurants here";
+"Under_Development" = "Under Development";
+"New_Order" = "New Order";
+"No_Order" = "No Order";
+"Enter_trip_code" = "Enter trip code";
+"Pickup" = "Pickup";
+"Did_you_receive_payment?" = "Did you receive payment?";
+"You_complete_your_ride_successfully_but_payment_is_pending." = "You complete your ride successfully but payment is pending.";
+"No_menu_here" = "No menu here";
+"Search_Item" = "Search Item";
+"No_notification_here" = "No notification here";
+"No_order_here" = "No order here";
+"My_Profile" = "My Profile";
+"Your_profile_is_not_verified,_Please_contact_admin." = "Your profile is not verified, Please contact admin.";
+"Your_profile_is_under_review." = "Your profile is under review.";
+"Basic_Info" = "Basic Info";
+"Vehicle_Info" = "Vehicle Info";
+"Edit" = "Edit";
+"Model_Number" = "Model Number";
+"Upcoming" = "Upcoming";
+"Wallet" = "Wallet";
+"Card" = "Card";
+"Total_Earning" = "Total Earning";
+"Total_Admin_Fees" = "Total Admin Fees";
+"Cash" = "Cash";
+"Company_Settlement" = "Company Settlement";
+"Total_Commission_Via_Cash" = "Total Commission Via Cash";
+"Total_Earning_Via_Card" = "Total Earning Via Card";
+"Total_Settlement" = "Total Settlement";
+"Maximum_commission_limit_should_not_be_more_than_$500.00" = "Maximum commission limit should not be more than $500.00";
+"Withdraw_Request" = "Withdraw Request";
+"Pay_To_Company" = "Pay To Company";
+"Salad" = "Salad";
+"Reset" = "Reset";
+"Your_food_has_been_packed_and_ready_to" = "Your food has been packed and ready to";
+"Money" = "Money";
+"Enter_Money" = "Enter Money";
+"Pay" = "Pay";
+"AWESOME!" = "Congrats";
+"Say_something_about_Evan_service?" = "Say something about Evan service?";
+"Submit" = "Submit";
+"Enter_trip" = "Enter trip";
+"Cancel_Order" = "Cancel Order";
+"Delivery_under_2km." = "Delivery under 2km.";
+"Delivery_under_10km." = "Delivery under 10km.";
+
+"Update_bank_detail_successfully" = "Bank details updated successfully";
+"Add_bank_account_successfully" = "Bank details added successfully";
+
+"Update_Bank_Account" = "Update Bank Account";
+"Update_Account" = "Update Account";
+"Please_select_at_least_one_type" = "Please select at least one type";
+"food_is_being_prepared" = "food is being prepared";
+"Please_complete_your_step" = "Please complete your step";
+"Please_rate_restaurant_and_driver_both." = "Please rate restaurant and driver both.";
+"Cancelled" = "Cancelled";
+"Deliverd" = "Deliverd";
+"In-Route" = "In-Route";
+"Received" = "Received";
+"Cooking" = "Cooking";
+"Accepted" = "Accepted";
+"Please_enter_money." = "Please enter money.";
+"Please_select_at_least_one_rating." = "Please select at least one rating.";
+"You_rated" = "You rated";
+"star" = "star";
+"stars" = "stars";
+"Order_Id" = "Order Id";
+"service?" = "service?";
+"View_review" = "View review";
+"Picked_by_driver" = "Picked by driver";
+"You_have_blocked_each_other._Can't_send_\nany_message." = "You have blocked each other. Can't send \nany message.";
+"Unblock" = "Unblock";
+"You_have_blocked" = "You have blocked";
+"You_are_blocked_by" = "You are blocked by";
+"Do_you_want_to_unblock" = "Do you want to unblock?";
+"Do_you_want_to_block" = "Do you want to block?";
+"EditReport" = "EditReport";
+"Are_you_sure_you_want_to_delete_all_conversation?" = "Are you sure you want to delete all conversation?";
+"Your_order_successfully_completed_thank_you_for_connecting_us." = "Your order successfully completed thank you for connecting us.";
+"Your_ride_cancelled_so_you_can't_send_message!" = "Your ride cancelled so you can't send message!";
+"Driver_cancelled_this_ride_so_you_can't_send_message!" = "Driver cancelled this ride so you can't send message!";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Admin" = "Admin";
+"Past_Trips" = "Past Trips";
+"Are_you_sure_you_want_to_logout?" = "Are you sure you want to logout?";
+"NA" = "NA";
+"Past_Orders" = "Past Orders";
+"Your_order_is_in_under_process" = "Your order is in under process";
+"Male" = "Male";
+"Female" = "Female";
+"Code" = "Code";
+"OFF" = "OFF";
+"Are_you_sure_you_want_to_delete_this_item?" = "Are you sure you want to delete this item?";
+"Open_Now" = "Open Now";
+"Close_Now" = "Close Now";
+"Closed" = "Closed";
+"You_don't_assign_permission." = "You don't assign permission.";
+"Picked_by_driver" = "Picked by driver";
+"You_need_to_logout_your_account" = "Your profile is updated successfully, your session is expired because you have changed your email id. Please login again.";
+"Your_bank_account_is_not_verified_please_verify_your_information" = "Your bank account is not verified please verify your information";
+"Please_add_your_bank_details" = "Please add your bank details";
+"Last_Name" = "Last Name";
+"Please_enter_your_email" = "Please enter your email";
+"Please_enter_your_phone_number" = "Please enter your phone number";
+"Email_address_is_not_valid,_please_provide_a_alid_email" = "Email address is not valid, please provide a valid email";
+"Please_enter_your_full_name" = "Please enter your full name";
+"Maximum_50_characters_allowed" = "Maximum 50 characters allowed";
+"New_Password_and_confirm_password_does_not_match" = "New Password and confirm password does not match";
+"Please_enter_email_address" = "Please enter email address";
+"Email_address_is_not_valid,_please_provide_a_valid_email" = "Email address is not valid, please provide a valid email";
+"Phone_number_is_not_valid,_please_provide_a_valid_phone_number" = "Phone number is not valid, please provide a valid phone number";
+"Please_enter_your_password" = "Please enter your password";
+"Old_password_should_not_less_than_6_characters" = "Old password should not less than 6 characters";
+"New_password_should_not_less_than_6_characters" = "New password should not less than 6 characters";
+"Password_should_not_less_than_6_characters" = "Password should not less than 6 characters";
+"Confirm_password_should_not_less_than_6_characters" = "Confirm password should not less than 6 characters";
+"New_password_and_confirm_password_does_not_match" = "New password and confirm password does not match";
+"Password_and_confirm_password_does_not_match" = "Password and confirm password does not match";
+"Please_enter_your_old_password" = "Please enter your old password";
+"Please_enter_your_new_password" = "Please enter your new password";
+"Please_enter_your_confirm_password" = "Please enter your confirm password";
+"Old_password_should_not_less_than_6_characters" = "Old password should not less than 6 characters";
+"New_password_should_not_less_than_6_characters" = "New password should not less than 6 characters";
+"Confirm_password_should_not_less_than_6_characters" = "Confirm password should not less than 6 characters";
+"Old_password_should_not_less_than_6_characters" = "Old password should not less than 6 characters";
+"Please_enter_your_email_address,_You_Will_receive_alink_to_create_a_new_password_\nvia email." = "Please enter your email address, You Will receive a link to create a new password \nvia email.";
+"There_are_many_variations_of_passages_of_Lorem_Ipsum_available" = "There are many variations of passages of Lorem Ipsum available.";
+"Contrary_to_popular_belief,_Lorem_ipsum_is_not_simply_random_text." = "Contrary to popular belief, Lorem ipsum is not simply random text.";
+"There_are_many_variations_of_passages_of_Lorem_Ipsum_available." = "There are many variations of passages of Lorem Ipsum available.";
+"Please_fill_the_below_information_to_add_your_card." = "Please fill the below information to add your card.";
+"Choose_Image" = "Choose Image";
+"Please_add_your_bank_account_details_for_receiving_payment" = "Please add your bank account details for receiving payment";
+"Please_grant_location_permission_to_start_the_service" = "Please grant location permission to start the service";
+"You_have_not_granted_location_permission._So_the_service_cannot_be_started." = "You have not granted location permission. So the service cannot be started.";
+"settings" = "settings";
+"No_internet" = "No internet";
+"Please_make_sure_that_you_have_active_internet_connection" = "Please make sure that you have active internet connection";
+"No_Google_Play_service_found._Please install_it" = "No Google Play service found. Please install it";
+"Don't_have_an_account_?" = "Don't have an account?";
+"Forgot_your_password?" = "Forgot your password?";
+"Which_type_of_vehicle_you_have?" = "Which type of vehicle you have?";
+"Please_enter_your_email" = "Please enter your email";
+"Please_enter_your_phone_number" = "Please enter your phone number";
+"Please_enter_your_valid_phone_number" = "Please enter valid phone number";
+"Please_enter_your_phone_number" = "Please enter your phone number";
+"Please_enter_year" = "Please enter year";
+"Please_enter_valid_year" = "Please enter valid year";
+"Cannot_retrieve_cropped_image" = "Cannot retrieve cropped image";
+"Something_went_wrong" = "Something went wrong";
+"Please_select_user_role" = "Please select user role";
+"Please_Check_internet_connection" = "Please Check internet connection";
+"Please_select_driver" = "Please select driver";
+"Please_select_vehicle" = "Please select vehicle";
+"Please_select_vehicle_make_first" = "Please select vehicle make first";
+"Name_must_be_atleast_2_characters" = "Name must be at least 2 characters";
+"Please_enter_vehicle_modal_number" = "Please enter vehicle modal number";
+"Please_select_vehicle_make" = "Please select vehicle make first";
+"Please_select_vehicle_type" = "Please select vehicle type";
+"Please_enter_vehicle_number" = "Please enter vehicle number";
+"Please_upload_registration" = "Please upload registration";
+"Please_upload_licence" = "Please upload licence";
+"Please_select_cuba_bank" = "Please select cuba bank";
+"Please_enter_your_cuban_card_number" = "Please enter your cuban card number";
+"Please_select_bank" = "Please select bank";
+"Please_enter_bank_name" = "Please enter bank name";
+"Please_enter_account_holder_name" = "Please enter account holder name";
+"Please_enter_valid_name" = "Please enter valid name";
+"Please_enter_account_number" = "Please enter account number";
+"Please_enter_routing_number" = "Please enter routing number";
+"Please_select_gender" = "Please select gender";
+"Please_select_any_card" = "Please select any card";
+"If_you_are_select_online_payment_option,then_you_need_to_select_card" = "If you are select online payment option, then  you need to select card";
+"Please_select_any_cardoption" = "Please select any card option";
+"Please_select_atleast_one_option" = "Please select at least one option";
+"Please_select_address" = "Please select address";
+"Please_enter_your_card_number" = "Please enter card number";
+"Please_enter_your_card_holder_name" = "Please enter card holder name";
+"Card_holder_name_should_not_less_than_3_characters" = "Card holder name should not less than 3 characters";
+"Card_number_must_be_16_digit_long" = "Card number must be 16 digit long";
+"Please_enter_your_card_expiry_date" = "Please enter card expiry date";
+"Please_enter_your_cvv_number" = "Please enter cvv number";
+"CVV_number_must_be_3_digit_long" = "CVV number must be 3 digit long";
+"Please_enter_source" = "Please enter source";
+"Please_enter_source_and_destination" = "Please enter source and destination";
+"Please_enter_destination" = "Please enter destination";
+"Please_select_make_first" = "Please select make first";
+"Please_enter_modal_number" = "Please enter modal number";
+"Please_select_vehicletype" = "Please select vehicle type";
+"Please_enter_vehicle_number" = "Please enter vehicle number";
+"Please_select_dropped_option" = "Please select dropped option";
+"Please_select_gender" = "Please select gender";
+"You_don't_assign_permission." = "You don't assign permission.";
+"Enable_gps." = "Enable gps.";
+"Location_required_for_this_app" = "Location required for this app";
+"Enable_now" = "Enable now";
+"Location_Permission_Not_Granted" = "Location Permission Not Granted";
+"Right_now_you_do_not_havevany_order_to_delivery._Please_wait_a_while" = "Right now you do not have any order to delivery. Please wait a while.";
+
+"Remove_promo_code" = " Remove Promo Code ";
+"Apply_promo_code" = "Apply Promo Code";
+"Are you sure you want to clear cart?" = "Are you sure you want to clear cart?";
+"Please wait..." = "Please wait...";
+"Vehicle number" = "Vehicle number";
+
+"Ask_customer_for_Reviews" = "Ask customer for reviews";
+"Request_Review" = "Request Review";
+
+"You already sent request for the review. Please wait for the customer's response." = "You sent request for the review. Please wait for the customer's response.";
+
+"Requested_Review" = "Review Resquested";
+
+
+"Are_you_sure_you_want_to_cancel_your_ride?" = "Are you sure you want to cancel your ride ?";
+"Cancel Ride" = "Cancel Ride";
+"Saved Card" = "Saved Card";
+
+"Are_you_sure_you_want_to_delete_this_card?" = "Are you sure you want to delete this card?";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
